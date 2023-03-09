@@ -8,3 +8,4 @@ plotly==5.13.1
 folium>=0.13
 jinja2
 branca
+streamlit-folium>=0.6
