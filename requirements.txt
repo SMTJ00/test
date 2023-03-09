@@ -9,3 +9,4 @@ folium>=0.13
 jinja2
 branca
 streamlit_folium>=0.6
+airportsdata>=0.1
